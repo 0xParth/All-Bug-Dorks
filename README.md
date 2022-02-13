@@ -9,9 +9,8 @@ Google dorks to find Bug Bounty Programs.
 3. intext:"USDT" inurl:"Bug-Bounty"
 
 ### Other
-intext:report a bug intext:reward
-
-intext:"our bug bounty program" "reward"
+intext:report a bug intext:reward\
+intext:"our bug bounty program" "reward"\
 intext:"bug bounty program" "@"
 intext:"USDT" inurl:"Bug-Bounty"
 intext:whitehat program reward
